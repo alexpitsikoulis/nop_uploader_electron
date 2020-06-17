@@ -1,0 +1,15 @@
+{
+	"name": "nop_uploader",
+	"version": "1.0.0",
+	"description": "upload prodcuts to nopcommerce storefront en masse",
+	"main": "main.js",
+	"scripts": {
+		"start": "electron ."
+	},
+	"author": "Alex Pitsikoulis",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.19.2",
+		"jquery": "^3.5.1"
+	}
+}
